@@ -23,9 +23,9 @@ contract AboutMe {
     }
 
     function MyInfo() public pure returns (string memory second_firstname, string memory second_lastname, uint second_age, uint second_number) {
-        second_firstname = "Viacheslav";
-        second_lastname = "Demchenko";
-        second_age = 23;
+        second_firstname = "Dema";
+        second_lastname = "Bender";
+        second_age = 74;
         second_number = 7;
     }
 }
